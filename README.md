@@ -41,8 +41,8 @@
 
 <img width="1021" height="527" alt="image" src="https://github.com/user-attachments/assets/632fdcf5-afca-4975-b9b7-acc4c5838995" />
 
-### Name: R Tharun Rathish
-### Register Number: 212225230284
+### Name: PRANAV KKIRTHIK S S
+### Register Number: 212225230212
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
